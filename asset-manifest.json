@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rachkem01/Indelible-Meals/static/css/main.1f0b5560.css",
+    "main.js": "/Rachkem01/Indelible-Meals/static/js/main.9b18f187.js",
+    "static/js/453.cb1ddf9e.chunk.js": "/Rachkem01/Indelible-Meals/static/js/453.cb1ddf9e.chunk.js",
+    "static/media/Baker.png": "/Rachkem01/Indelible-Meals/static/media/Baker.f512a417f52c73ca98bd.png",
+    "index.html": "/Rachkem01/Indelible-Meals/index.html",
+    "main.1f0b5560.css.map": "/Rachkem01/Indelible-Meals/static/css/main.1f0b5560.css.map",
+    "main.9b18f187.js.map": "/Rachkem01/Indelible-Meals/static/js/main.9b18f187.js.map",
+    "453.cb1ddf9e.chunk.js.map": "/Rachkem01/Indelible-Meals/static/js/453.cb1ddf9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f0b5560.css",
+    "static/js/main.9b18f187.js"
+  ]
+}
