@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Indelible-Meals/static/css/main.77118cb7.css",
+    "main.css": "/Indelible-Meals/static/css/main.e1a0167e.css",
     "main.js": "/Indelible-Meals/static/js/main.9f2c7386.js",
     "static/js/453.cb1ddf9e.chunk.js": "/Indelible-Meals/static/js/453.cb1ddf9e.chunk.js",
     "static/media/Baker.png": "/Indelible-Meals/static/media/Baker.f512a417f52c73ca98bd.png",
     "index.html": "/Indelible-Meals/index.html",
-    "main.77118cb7.css.map": "/Indelible-Meals/static/css/main.77118cb7.css.map",
+    "main.e1a0167e.css.map": "/Indelible-Meals/static/css/main.e1a0167e.css.map",
     "main.9f2c7386.js.map": "/Indelible-Meals/static/js/main.9f2c7386.js.map",
     "453.cb1ddf9e.chunk.js.map": "/Indelible-Meals/static/js/453.cb1ddf9e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77118cb7.css",
+    "static/css/main.e1a0167e.css",
     "static/js/main.9f2c7386.js"
   ]
 }
