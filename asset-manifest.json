@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Rachkem01/Indelible-Meals/static/css/main.4e7a5a0c.css",
-    "main.js": "/Rachkem01/Indelible-Meals/static/js/main.acdc1013.js",
-    "static/js/453.cb1ddf9e.chunk.js": "/Rachkem01/Indelible-Meals/static/js/453.cb1ddf9e.chunk.js",
-    "static/media/Baker.png": "/Rachkem01/Indelible-Meals/static/media/Baker.f512a417f52c73ca98bd.png",
-    "index.html": "/Rachkem01/Indelible-Meals/index.html",
-    "main.4e7a5a0c.css.map": "/Rachkem01/Indelible-Meals/static/css/main.4e7a5a0c.css.map",
-    "main.acdc1013.js.map": "/Rachkem01/Indelible-Meals/static/js/main.acdc1013.js.map",
-    "453.cb1ddf9e.chunk.js.map": "/Rachkem01/Indelible-Meals/static/js/453.cb1ddf9e.chunk.js.map"
+    "main.css": "/rachkem01/Indelible-Meals/static/css/main.9e42ddda.css",
+    "main.js": "/rachkem01/Indelible-Meals/static/js/main.7a9b2a62.js",
+    "static/js/453.cb1ddf9e.chunk.js": "/rachkem01/Indelible-Meals/static/js/453.cb1ddf9e.chunk.js",
+    "static/media/Baker.png": "/rachkem01/Indelible-Meals/static/media/Baker.f512a417f52c73ca98bd.png",
+    "index.html": "/rachkem01/Indelible-Meals/index.html",
+    "main.9e42ddda.css.map": "/rachkem01/Indelible-Meals/static/css/main.9e42ddda.css.map",
+    "main.7a9b2a62.js.map": "/rachkem01/Indelible-Meals/static/js/main.7a9b2a62.js.map",
+    "453.cb1ddf9e.chunk.js.map": "/rachkem01/Indelible-Meals/static/js/453.cb1ddf9e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e7a5a0c.css",
-    "static/js/main.acdc1013.js"
+    "static/css/main.9e42ddda.css",
+    "static/js/main.7a9b2a62.js"
   ]
 }
