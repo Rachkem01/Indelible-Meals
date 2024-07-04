@@ -17,15 +17,16 @@ function App() {
  
   return (
    <>
+   
    <Router>
 <Side />
    <Nav/>
 
  <Routes>
 
- <Route path = '/' element={  <Meals />}>
+  <Route path = '/' element={  <Meals />}>
     
-    </Route>
+    </Route> 
    
      <Route path = '/Favorites' element={ <Favourites />}>
     
