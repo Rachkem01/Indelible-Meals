@@ -8,7 +8,7 @@ import SeaFood from './components/SeaFood';
 import Canadian from './components/Canadian';
 import Chicken from './components/Chicken';
 import Side from './Side';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom'
 
 import './App.css';
 
@@ -41,6 +41,7 @@ function App() {
    <Route path ='/Chicken' element={<Chicken />}> 
    
    </Route>
+   <Route path="*" element={<Navigate to='/' />} />
   </Routes>
    </Router>
    </>
