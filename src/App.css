@@ -2,7 +2,7 @@
 .sidebar-container{
  position: fixed;
 z-index: 3;
-height: 100vh; 
+height: 100%; 
 background-color:#efefef;
  padding-top: 2rem; 
 width: 15%;
@@ -251,7 +251,7 @@ cursor: pointer;
    }
    
    .section-meal img{
-     width: 100%;
+     width: 130px;
      margin-bottom: 1rem;
      transition: 0.2s ease-in ;
      
@@ -262,8 +262,8 @@ cursor: pointer;
    transform: scale(1.05);
    }
    .single-meal{
-     width:100px;
-     height: 250px;
+     width:130px;
+     height: 300px;
      position: relative;
      margin-bottom: 30px;
    }
