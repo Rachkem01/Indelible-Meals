@@ -1,24 +1,48 @@
-import logo from './logo.svg';
+
+
+import Favourites from './components/Favourites';
+import Meals from './components/Meals';
+import Nav from './components/Nav';
+
+import SeaFood from './components/SeaFood';
+import Canadian from './components/Canadian';
+import Chicken from './components/Chicken';
+import Side from './Side';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+
 import './App.css';
 
+
 function App() {
+ 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+   <>
+   <Router>
+<Side />
+   <Nav/>
+
+ <Routes>
+
+ <Route path = '/' element={  <Meals />}>
+    
+    </Route>
+   
+     <Route path = '/Favorites' element={ <Favourites />}>
+    
+     </Route>
+
+<Route path='/SeaFood' element={   <SeaFood/>}>
+
+   </Route>
+   <Route path = '/Canadian' element={ <Canadian />}>
+  
+   </Route>
+   <Route path ='/Chicken' element={<Chicken />}> 
+   
+   </Route>
+  </Routes>
+   </Router>
+   </>
   );
 }
 
