@@ -187,17 +187,24 @@ cursor: pointer;
 
 @media (max-width:500px){
   .sidebar-container{
-  margin-left: 10px;
-   width: 32%;
+
+   width: 23%;
  
    }
    
    
    .meal img{
-   width: 120px;
-   height: 120px;
+   width: 80px;
+   height: 70px;
 
    
+   }
+   .sidebar-title{
+    font-size: 20px;
+    font-weight: normal;
+     padding-bottom: 1rem; 
+     padding-left: 10px;
+    
    }
    .Nav{
   
@@ -207,9 +214,9 @@ cursor: pointer;
      justify-content: space-around;
       
     
-     margin-left: 11rem;
+     margin-left: 7rem;
    
-     width: 19rem;
+     width: 17rem;
    
    
    }
@@ -240,18 +247,18 @@ cursor: pointer;
    }
    .Baker{
      height: 75px;
-     width: 100px;
+     width: 75px;
    }
    .section-meal{
      display: grid;
      grid-template-columns: repeat(2, 1fr);  
      cursor: pointer;
-     margin-left: 12rem;
-     column-gap: 0.5rem;
+     margin-left: 8rem;
+   column-gap: -1.2rem;
    }
    
    .section-meal img{
-     width: 130px;
+     width: 100px;
      margin-bottom: 1rem;
      transition: 0.2s ease-in ;
      
@@ -262,8 +269,8 @@ cursor: pointer;
    transform: scale(1.05);
    }
    .single-meal{
-     width:130px;
-     height: 300px;
+     width:100px;
+     height: 200px;
      position: relative;
      margin-bottom: 30px;
    }
