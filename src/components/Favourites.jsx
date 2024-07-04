@@ -10,6 +10,7 @@ const { favorites, selectMeal, removeFromFavorites,loading} = useGlobalContext()
 if (loading) {
   return <section className="section-loading">
     <h4>Loading...</h4>
+    <h5>Welcome to Favorites</h5>
   </section>
 }
     return <section className="favorites">
